@@ -8,4 +8,4 @@
   <li>Run "python main.py" command to run the app.</li>
   <li>Now you can check "my_playlist" folder in project directory :)</li>
 </ul>
-<strong>This project is free to use :) If you need to ask something, feel free to reach out to me.</small>
+<strong>This project is free to use :) If you wanna make some changes, you can create PR. We currently have %93 code coverage for entire project. Before creating PR, please make sure that all tests are successfull. If you need to ask something, feel free to reach out to me.</small>
